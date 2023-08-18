@@ -2,7 +2,6 @@
 
 import 'dart:convert';
 import 'dart:typed_data';
-import 'package:ecom_2/app/component/addProductPopup.dart';
 
 import 'package:ecom_2/app/constants.dart';
 import 'package:ecom_2/app/model/category.dart';
